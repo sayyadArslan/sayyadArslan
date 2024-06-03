@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on ...
 - 📫 My Email is arslan5sherazi@gmail.com
-- 😄 Pronouns: ...
+- 😄 Pronouns: ... Arslani 
 - ⚡ Fun fact: ...   Code that amazing you
 
 <!---
