@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sayyadArslan
 - 👀 I’m interested in  Software Developement 
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning .net maui
 - 💞️ I’m looking to collaborate on ...
 - 📫 My Email is arslan5sherazi@gmail.com
 - 😄 Pronouns: ... Arslani 
