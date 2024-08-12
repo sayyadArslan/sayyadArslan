@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sayyadArslan
+- 👋 Hi, I’m @Arslan Sherazi
 - 👀 I’m interested in  Software Developement 
 - 🌱 I’m currently learning .net maui
 - 💞️ I’m looking to collaborate on ...
