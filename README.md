@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Arslan Sherazi
 - 👀 I’m interested in  Software Developement 
 - 🌱 I’m currently learning System Design
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate with software houses for development support
 - 📫 My Email is arslan5sherazi@gmail.com
 - 😄 Pronouns: ... Arslani 
 - ⚡ Fun fact: ...   Code that amazing you
